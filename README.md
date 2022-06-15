@@ -1,5 +1,7 @@
 REACT MEMORY GAME
+
 A REACT APPLICATION BUILT USING JAVASCRIPT, HTML AND CSS
+
 Access
 This project is hosted on heroku and can be accessed from https://memory-card1.herokuapp.com/
 MOTIVATION
