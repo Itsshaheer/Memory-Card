@@ -8,6 +8,6 @@ FEATURES
 This app allows users to select two cards and if they match the cards turn green and if not a match they turn red and flip back.
 At the beginning users are shown the cards so they can memorize before they are flipped.
 Challenges
-Everytime the user refreshes the page the cards are shuffled so in order to allow the browser to know what card is being clicked I used the index of the card to allow proper functionality otherwise the game would not work.
+Everytime the user refreshes the page the cards are shuffled so in order to allow the browser to know what card is being clicked I used the index of the card to allow proper functionality otherwise the game would not work
 
 
